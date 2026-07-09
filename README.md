@@ -10,11 +10,11 @@
 
 ### 🚀 Sobre Mim
 
-Estudante de Desenvolvimento de Sistemas com foco em desenvolvimento Backend e Engenharia de Dados. Atualmente construindo projetos em Python, Django e Streamlit enquanto aprofundo conhecimentos em arquitetura de software, APIs REST e análise de dados.
+Sou estudante de Desenvolvimento de Sistemas com interesse em Backend, Engenharia de Dados e Arquitetura de Software. Gosto de construir aplicações completas, desde o consumo de APIs e processamento de dados até a criação de interfaces e APIs REST. Atualmente desenvolvo projetos envolvendo Python, Django, Streamlit e análise de dados, sempre buscando escrever código organizado, reutilizável e bem documentado.
 
-🔭 &nbsp;Atualmente Trabalhando **Dashboard de Volatidade de Criptomoedas**  
-🌱 &nbsp;Atualmente aprendendo sobre **Flask**  
-👯 &nbsp;Buscando por **oportunidades de estágio e desenvolvimento como Desenvolvedor Backend, contribuindo com projetos reais enquanto continuo evoluindo em engenharia de software.**
+&nbsp;Atualmente Trabalhando em **Dashboard de Volatidade de Criptomoedas**  
+&nbsp;Atualmente aprendendo sobre **Flask**  
+&nbsp;Buscando por **oportunidades de estágio e desenvolvimento como Desenvolvedor Backend, contribuindo com projetos reais enquanto continuo evoluindo em engenharia de software.**
 
 ### 🛠️ Principais Tecnologias
 
@@ -31,6 +31,8 @@ Estudante de Desenvolvimento de Sistemas com foco em desenvolvimento Backend e E
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
+### 📂 Principais projetos
 
 ### Formas de Contato
 
@@ -53,4 +55,4 @@ Estudante de Desenvolvimento de Sistemas com foco em desenvolvimento Backend e E
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/giovanni-pirolla">giovanni-pirolla</a></i></p>
+<p align="center"><i>Por <a href="https://github.com/giovanni-pirolla">giovanni-pirolla</a></i></p>
