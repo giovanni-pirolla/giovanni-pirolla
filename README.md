@@ -35,7 +35,7 @@ Sou estudante de Desenvolvimento de Sistemas com interesse em Backend, Engenhari
 ### 📂 Principais projetos
 - <a href=https://github.com/giovanni-pirolla/dashboard_crypto>Dashboard de Volatidade de Criptomoedas</a>
 
-### Formas de Contato
+### 📫 Formas de Contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/giovanni-pirolla-5a45ab406/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
