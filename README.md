@@ -14,7 +14,7 @@ Sou estudante de Desenvolvimento de Sistemas com interesse em Backend, Engenhari
 
 -&nbsp;Atualmente desenvolvendo **Dashboard de Volatidade de Criptomoedas**  
 -&nbsp;Atualmente aprendendo sobre **Flask**  
--&nbsp;Buscando por **oportunidades de estágio e desenvolvimento como Desenvolvedor Backend.**
+-&nbsp;Buscando **oportunidades de estágio e desenvolvimento como Desenvolvedor Backend.**
 
 ### Principais Tecnologias
 
@@ -56,4 +56,3 @@ Sou estudante de Desenvolvimento de Sistemas com interesse em Backend, Engenhari
 </p>
 
 ---
-<p align="center"><i>Por <a href="https://github.com/giovanni-pirolla">giovanni-pirolla</a></i></p>
