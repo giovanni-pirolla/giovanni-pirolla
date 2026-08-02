@@ -10,7 +10,7 @@
 
 ### Sobre Mim
 
-Sou estudante de Desenvolvimento de Sistemas com interesse em Backend, Engenharia de Dados e Arquitetura de Software. Gosto de construir aplicações completas, desde o consumo de APIs e processamento de dados até a criação de interfaces e APIs REST. Atualmente desenvolvo projetos envolvendo Python, Django, Streamlit e análise de dados, sempre buscando escrever código organizado, reutilizável e bem documentado.
+Sou Desenvolvedor de Software com interesse em Backend, Engenharia de Dados e Arquitetura de Software. Gosto de construir aplicações completas, desde o consumo de APIs e processamento de dados até a criação de interfaces e APIs REST. Atualmente desenvolvo projetos envolvendo Python, Django, Streamlit e análise de dados, sempre buscando escrever código organizado, reutilizável e bem documentado.
 
 -&nbsp;Atualmente desenvolvendo **Dashboard de Volatidade de Criptomoedas**  
 -&nbsp;Atualmente aprendendo sobre **Flask**  
