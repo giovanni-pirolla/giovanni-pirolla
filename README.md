@@ -8,9 +8,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=360&height=44&lines=Desenvolvedor%20Backend" alt="Typing headlines" />
 </p>
 
-### Sobre Mim
+### Sobre 
 
-Sou Desenvolvedor de Software com interesse em Backend, Engenharia de Dados e Arquitetura de Software. Gosto de construir aplicações completas, desde o consumo de APIs e processamento de dados até a criação de interfaces e APIs REST. Atualmente desenvolvo projetos envolvendo Python, Django, Streamlit e análise de dados, sempre buscando escrever código organizado, reutilizável e bem documentado.
+Desenvolvedor Backend com interesse em Engenharia de Dados e Arquitetura de Software. Gosto de construir aplicações completas, desde o consumo de APIs e processamento de dados até a criação de interfaces e APIs REST. Atualmente desenvolvo projetos envolvendo Python, Django, Streamlit e análise de dados, sempre buscando escrever código organizado, reutilizável e bem documentado.
 
 -&nbsp;Atualmente desenvolvendo **Dashboard de Volatidade de Criptomoedas**  
 -&nbsp;Atualmente aprendendo sobre **Flask**  
