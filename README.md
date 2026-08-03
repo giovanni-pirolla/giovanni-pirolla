@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/giovanni-pirolla">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e3b341&fontSize=54&height=90&width=602&text=Giovanni%20Pirolla" alt="Giovanni Pirolla" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f43f5e&fontSize=54&height=90&width=602&text=Giovanni%20Pirolla" alt="Giovanni Pirolla" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@ Sou Desenvolvedor de Software com interesse em Backend, Engenharia de Dados e Ar
 
 -&nbsp;Atualmente desenvolvendo **Dashboard de Volatidade de Criptomoedas**  
 -&nbsp;Atualmente aprendendo sobre **Flask**  
--&nbsp;Buscando **oportunidades de estágio e desenvolvimento como Desenvolvedor Backend.**
+-&nbsp;Buscando **oportunidades de estágio e desenvolvimento como Desenvolvedor Backend**
 
 ### Principais Tecnologias
 
@@ -24,12 +24,13 @@ Sou Desenvolvedor de Software com interesse em Backend, Engenharia de Dados e Ar
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <!-- <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
@@ -47,14 +48,14 @@ Sou Desenvolvedor de Software com interesse em Backend, Engenharia de Dados e Ar
 ### Estatísticas do Github
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=giovanni-pirolla&show_icons=true&theme=tokyonight&title_color=e3b341&icon_color=e3b341&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=giovanni-pirolla&layout=compact&theme=tokyonight&title_color=e3b341&icon_color=e3b341&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=giovanni-pirolla&show_icons=true&theme=tokyonight&title_color=f43f5e&icon_color=f43f5e&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=giovanni-pirolla&layout=compact&theme=tokyonight&title_color=f43f5e&icon_color=f43f5e&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### Gráfico de Contribuições
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=giovanni-pirolla&bg_color=00000000&color=e3b341&line=e3b341&point=6e27ff&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=giovanni-pirolla&bg_color=00000000&color=f43f5e&line=f43f5e&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
