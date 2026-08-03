@@ -34,15 +34,14 @@ Sou Desenvolvedor de Software com interesse em Backend, Engenharia de Dados e Ar
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-### Principais projetos
-- <a href=https://github.com/giovanni-pirolla/dashboard_crypto>Dashboard de Volatidade de Criptomoedas</a>
-
 ### Formas de Contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/giovanni-pirolla-5a45ab406/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:giovanni.pirolla2009@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+---
 
 ### Estatísticas do Github
 
@@ -56,5 +55,3 @@ Sou Desenvolvedor de Software com interesse em Backend, Engenharia de Dados e Ar
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=giovanni-pirolla&bg_color=00000000&color=f43f5e&line=f43f5e&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
-
----
